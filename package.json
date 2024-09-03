@@ -13,6 +13,7 @@
   },
   "devDependencies": {
     "@codecov/vite-plugin": "^0.0.1-beta.10",
+    "@types/node": "^22.5.2",
     "typescript": "^5.5.3",
     "vite": "^5.4.1",
     "vite-plugin-solid": "^2.10.2"

@@ -1,7 +1,7 @@
 // vite.config.js
 import { defineConfig } from "vite";
 import { codecovVitePlugin } from "@codecov/vite-plugin";
-import { solid } from 'vite-plugin-solid'
+import solid from 'vite-plugin-solid'
 
 export default defineConfig({
   plugins: [
